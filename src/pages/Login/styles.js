@@ -96,7 +96,7 @@ export const Title = styled.div`
   flex-direction: column;
 
   h3 {
-    color: #767ead;
+    color: #767ead; 
     font-weight: normal;
   }
 `;
